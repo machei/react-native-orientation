@@ -1,5 +1,5 @@
 {
-  "name": "@sponk-eu/react-native-orientation",
+  "name": "sponk-eu/react-native-orientation",
   "version": "1.17.0",
   "description": "Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis",
   "main": "index.js",
